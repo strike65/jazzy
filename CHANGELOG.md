@@ -10,7 +10,12 @@
 
 ##### Bug Fixes
 
-* None.
+* Autolink from parameter documentation and from external markdown documents
+  including README.  Autolink to symbols containing & < >.  
+  [John Fairhurst](https://github.com/johnfairh)
+  [#715](https://github.com/realm/jazzy/issues/715)
+  [#789](https://github.com/realm/jazzy/issues/789)
+  [#805](https://github.com/realm/jazzy/issues/805)
 
 ## 0.8.3
 
